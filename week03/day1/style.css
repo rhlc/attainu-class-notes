@@ -1,0 +1,88 @@
+
+* {
+    font-family: sans-serif;
+    
+}
+nav {
+    float: right;
+}
+.container {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#home, #services, #portfolio {
+    height: 1000px;
+}
+
+.navbar {
+    width: 100%;
+    position: relative;
+    text-shadow: 10px 10px 10px  yellowgreen;
+
+   
+}
+.navlist {
+    list-style: none;
+    display: inline-block;
+}
+.navlist a {
+    text-decoration: none;
+    color: #000;
+}
+
+button {
+    width: 200px;
+    height: 100px;
+    /* you can set border radius values individually also, just like all other css prop */
+    border-radius: 10%;
+    position: relative;
+
+}
+
+button:hover {
+    background: yellow;
+    color: red;
+    box-shadow: 10px 10px 10px 10px yellowgreen;
+}
+
+.rect {
+    width: 200px;
+    height: 150px;
+    background-color: chocolate;
+    /* transition: all 3s ease-in-out; */
+    transition: all 3s ease-in;
+
+}
+.rect:hover {
+    width: 500px;
+    height: 60px;
+}
+
+.rect::before {
+    content: "hi";
+    top: 30px;
+    left: 200px;
+}
+
+.rect:hover::before {
+    content: "flip off!";
+}
+.rect::after {
+    content: "bye";
+}
+
+
+.cir {
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+    border-radius: 100%;
+}
+.cir:hover {
+
+    /* transform: scale(1.5); */
+    transition: all 3s;
+    /* transform: skew(40deg); */
+    background-color: crimson;
+    transform: scale(2);
+}
