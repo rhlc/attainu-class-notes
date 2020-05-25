@@ -27,3 +27,8 @@
 
 ## Bootstrap:
 - https://getbootstrap.com/docs/4.5/getting-started/introduction/
+
+## UI/UX:
+- [https://careerfoundry.com/en/blog/ux-design/the-ux-design-process-an-actionable-guide-to-your-first-job-in-ux/](UI UX design process)
+- [Dribble](https://dribbble.com/)
+- [Figma](figma.com)
