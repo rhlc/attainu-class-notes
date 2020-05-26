@@ -10,3 +10,4 @@
 
 ## Week 04
 - [W04 D1](./week04/day1/w04d1.md)
+- [W04 D1](./week04/day2/w04d2.md)
