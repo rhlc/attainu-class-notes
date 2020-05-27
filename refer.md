@@ -1,12 +1,12 @@
-# Links for Resources:
+# Links of Resources
 
-## HTML:
+## HTML
 
 - [MDN docs](https://developer.mozilla.org/)
 - [Semantic HTML5 elements](https://www.freecodecamp.org/news/semantic-html5-elements/)
 - [Aria](https://www.lullabot.com/articles/what-heck-aria-beginners-guide-aria-accessibility)
 
-## CSS:
+## CSS
 
 - [CSS specificity calculator](https://specificity.keegan.st/)
 - [CSS diner](https://flukeout.github.io/)
@@ -20,15 +20,18 @@
 - [FCC CSS flexbox course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
 - [Flexbox in 15min](https://www.youtube.com/watch?v=fYq5PXgSsbE)
 
-## Sass:
+## Sass
+
 - [BEM](http://getbem.com/introduction/)
 - [Can I use](caniuse.come)
 - [Sass article](https://devhints.io/sass) 
 
-## Bootstrap:
-- https://getbootstrap.com/docs/4.5/getting-started/introduction/
+## Bootstrap
 
-## UI/UX:
-- [https://careerfoundry.com/en/blog/ux-design/the-ux-design-process-an-actionable-guide-to-your-first-job-in-ux/](UI UX design process)
+- [Offical docs](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+
+## UI/UX
+
+- [UI UX design process](https://careerfoundry.com/en/blog/ux-design/the-ux-design-process-an-actionable-guide-to-your-first-job-in-ux/)
 - [Dribble](https://dribbble.com/)
 - [Figma](figma.com)
