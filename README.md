@@ -14,3 +14,4 @@
 - [W04 D2](./week04/day2/w04d2.md)
 - [W04 D3](./week04/day3/w04d3.md)
 - [W04 D4](./week04/day4/notes.md)
+- [W04 D5](./week04/day5/notes.md)
