@@ -43,3 +43,11 @@
 - [Color theory](https://www.interaction-design.org/literature/article/dressing-up-your-ui-with-colors-that-fit)
 - [Typography](https://www.creativelive.com/blog/typography-tips/)
 - [Testing visual design](https://www.nngroup.com/articles/testing-visual-design/)
+
+## JavaScript
+
+- [JavaScript if else statements](https://www.youtube.com/watch?v=-QbgVJR0_to)
+- [JavaScript switch case statements](https://www.youtube.com/watch?v=OWQUBfWaxBw)
+- [JavaScript for loops](https://www.youtube.com/watch?v=DIA0J4vJBHQ)
+- [JavaScript while loops](https://www.youtube.com/watch?v=osOEz3SwyVk)
+- [JavaScript do-while loop](https://www.youtube.com/watch?v=zGG56ae5_GM)
