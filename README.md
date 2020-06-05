@@ -21,3 +21,5 @@
 - [W05 D1](./week05/day1/notes.md)
 - [W05 D2](./week05/day2/notes.md)
 - [W05 D3](./week05/day3/notes.md)
+- [W05 D4](./week05/day4/notes.md)
+- [W05 D5](./week05/day5/notes.md)
