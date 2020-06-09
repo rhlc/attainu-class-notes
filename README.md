@@ -27,3 +27,4 @@
 ## Week 06
 
 - [W06 D1](./week06/day1/notes.md)
+- [W06 D2](./week06/day2/notes.md)
