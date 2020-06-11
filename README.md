@@ -29,3 +29,4 @@
 - [W06 D1](./week06/day1/notes.md)
 - [W06 D2](./week06/day2/notes.md)
 - [W06 D3](./week06/day3/notes.md)
+- [W06 D4](./week06/day4/app.js)
