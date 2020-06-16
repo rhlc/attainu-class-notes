@@ -1,0 +1,23 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "testing node stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul-choudhary-au8/attainu-class-notes.git"
+  },
+  "author": "Rahul Choudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul-choudhary-au8/attainu-class-notes/issues"
+  },
+  "homepage": "https://github.com/rahul-choudhary-au8/attainu-class-notes#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "parcel-bundler": "^1.12.4"
+  }
+}

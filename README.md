@@ -35,3 +35,4 @@
 ## Week 07
 
 - [W07 D1](./week07/day1/app.js)
+- [W07 D2](./week07/day2/app.js)
