@@ -1,0 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+.container {
+	font-family: sans-serif;
+	margin: 5px 50px;
+}
